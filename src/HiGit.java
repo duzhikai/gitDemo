@@ -6,6 +6,6 @@
  **/
 public class HiGit {
     public static void main(String[] args) {
-        System.out.println("welcom git ~");
+        System.out.println("welcom git commit~");
     }
 }
